@@ -1,6 +1,7 @@
 #include <cassert>
 #include <iostream>
 #include <vector>
+#include <Eigen/Dense>
 
 template <typename T>
 void print_vec(const std::vector<T>& vec, bool print_vec_header = true) {

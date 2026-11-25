@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/Users/martinhilbert/Documents/TUM/2. Semester/Advanced-Programming/Bonus Projekt/advprog-ex1",
+    "C_Cpp.default.includePath": ["${workspaceFolder}/include", "/opt/homebrew/Cellar/eigen/5.0.1/include/eigen3"]
+}
